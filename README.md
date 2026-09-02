@@ -52,7 +52,7 @@ A feature-rich desktop QR Code Generator built with **Python and Tkinter**. The 
 
 ```bash
 git clone https://github.com/kavaliAkhilandeshwari45/Ai_Advanced_QR_code_Generator.git
-cd AI-QRCode-Generator
+cd Ai_Advanced_QR_code_Generator
 ```
 
 ### 2. Install Required Libraries
@@ -64,7 +64,7 @@ pip install pillow qrcode opencv-python numpy
 ### 3. Run the Application
 
 ```bash
-python "Pasted code.py"
+python "QR.py"
 ```
 
 ## 🖥️ Application Workflow
@@ -209,9 +209,9 @@ Generated QR codes can be saved in:
 ## 📁 Project Structure
 
 ```text
-AI-QRCode-Generator/
+AI-Advanced_QR_Code_Generator/
 │
-├── Pasted code.py
+├── QR.py
 ├── README.md
 └── requirements.txt
 ```
