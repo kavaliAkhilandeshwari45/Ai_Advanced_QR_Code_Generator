@@ -51,7 +51,7 @@ A feature-rich desktop QR Code Generator built with **Python and Tkinter**. The 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/AI-QRCode-Generator.git
+git clone https://github.com/kavaliAkhilandeshwari45/Ai_Advanced_QR_code_Generator.git
 cd AI-QRCode-Generator
 ```
 
